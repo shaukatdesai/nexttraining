@@ -4,9 +4,9 @@
 
 1. Login to cloud.oracle.com 
 
-2. Click on the Autonomous Transaction Processing link
+2. Click on the Autonomous Transaction Processing
 
-3. Select the WORKSHOP instance
+3. Select the WORKSHOP instance that you provisioned in [Lab 101](https://github.com/shaukatdesai/nexttraining/blob/master/Step1.md)
 
 4. To Log in to Oracle Application Express, , you need a Workspace name, username, and the password created for that Workspace. 
 
