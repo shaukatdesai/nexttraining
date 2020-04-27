@@ -1,4 +1,4 @@
-# Step 2: Provision an Autonomous Transaction Processing database
+# Step 1: Provision an Autonomous Transaction Processing database
 
 - On the left hand menu, choose Autonomous Transaction Processing.
 
