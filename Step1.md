@@ -34,4 +34,6 @@
 
 This process typically completes within about 5 minutes, after which you will see the status "AVAILABLE".
 
+[Lab 102](https://github.com/shaukatdesai/nexttraining/blob/master/Step2.md)
+
 [Back to Labs](https://github.com/shaukatdesai/nexttraining/blob/master/README.md)
