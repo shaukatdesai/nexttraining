@@ -2,51 +2,49 @@
 
 
 
-1. Click on the Autonomous Transaction Processing link
+1. Login to cloud.oracle.com 
 
-   
+2. Click on the Autonomous Transaction Processing link
 
-2. Select the WORKSHOP instance
+3. Select the WORKSHOP instance
 
-   
-
-3. To Log in to Oracle Application Express, , you need a Workspace name, username, and the password created for that Workspace. 
+4. To Log in to Oracle Application Express, , you need a Workspace name, username, and the password created for that Workspace. 
 
    [![1a](https://github.com/shaukatdesai/nexttraining/blob/master/APEX%20Login.jpg)](https://github.com/shaukatdesai/nexttraining/blob/master/APEX%20Login.jpg)
 
-4. The Workspace home page appears. Click **App Builder**.
+5. The Workspace home page appears. Click **App Builder**.
 
    [![1b](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image4.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image4.png)
 
-5. Toggle between the **View Icons** and the **View Report** buttons. You see that applications are displayed along with their icons and in report format.
+6. Toggle between the **View Icons** and the **View Report** buttons. You see that applications are displayed along with their icons and in report format.
 
    [![1c](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image5.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image5.png)
 
-6. Click **SQL Workshop**. The SQL Workshop home page appears. Review each of the SQL Workshop components.
+7. Click **SQL Workshop**. The SQL Workshop home page appears. Review each of the SQL Workshop components.
 
    [![1d](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image7.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image7.png)
 
-7. Then, click **Team Development**. Review the Team Development components.
+8. Then, click **Team Development**. Review the Team Development components.
 
    [![1e](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image8.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image8.png)
 
-8. Click **Packaged Apps**.
+9. Click **Packaged Apps**.
 
    [![1f](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image9.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image9.png)
 
-9. The Packaged Apps page displays all of the Productivity and Sample applications. Click **Sample**.
+10. The Packaged Apps page displays all of the Productivity and Sample applications. Click **Sample**.
 
    [![1g](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image10.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image10.png)
 
-10. Now, you install packaged applications. Click **Sample Reporting**.
+11. Now, you install packaged applications. Click **Sample Reporting**.
 
-   [![2a](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image11.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image11.png)
+    [![2a](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image11.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image11.png)
 
-11. Click **Install Packaged App**.
+12. Click **Install Packaged App**.
 
     [![2b](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image11.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image11.png)
 
-12. Accept the defaults and click **Next**.
+13. Accept the defaults and click **Next**.
 
 [![2c](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image12.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image12.png)
 
