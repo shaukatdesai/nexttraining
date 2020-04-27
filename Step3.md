@@ -50,7 +50,7 @@
 
    [![2e](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image14.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image14.png)
 
-3. Log in to the Sample Reporting application. Enter your Username and Password (same as your Workspace credentials) and click **Sign In**.
+3. Log in to the Sample Reporting application. Enter your Username and Password (same as your Workspace credentials - **WORKSHOPATP**) and click **Sign In**.
 
    [![2f](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image15.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image15.png)
 
