@@ -7,6 +7,6 @@
 This hands-on lab will allow you to develop APEX applications using an Autonomous Transaction Processing Database
 
 - **Lab 101** [Creating the ATP Database](https://github.com/shaukatdesai/nexttraining/blob/master/Step1.md)
-- **Lab 102:** [First steps with ATP](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/L100.md)
+- **Lab 102:** [First steps with ATP](https://github.com/shaukatdesai/nexttraining/blob/master/Step2.md)
 - 
 
