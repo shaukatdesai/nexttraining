@@ -16,13 +16,13 @@
 
 [![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/prereq/create_atp_03.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/prereq/create_atp_03.png)
 
-- Choose the Serverless or shared deployment type.
+- Choose the Serverless or Shared deployment type.
 
 [![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/prereq/create_atp_serverless.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/prereq/create_atp_serverless.png)
 
-- In order to have an equal performance over all of the ATP instances of all the workshop participants, we recommend that you **keep the Always Free option turned off**.
 
-[![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/prereq/create_atp_free.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/prereq/create_atp_free.png)
+
+[](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/prereq/create_atp_free.png)
 
 - Set the admin password. ***Make a note of this as you will need it**.*
 
