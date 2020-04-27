@@ -33,3 +33,5 @@
 [![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/prereq/create_atp_05.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/prereq/create_atp_05.png)
 
 This process typically completes within about 5 minutes, after which you will see the status "AVAILABLE".
+
+[Back to Labs](https://github.com/shaukatdesai/nexttraining/blob/master/README.md)
