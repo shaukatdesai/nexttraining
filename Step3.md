@@ -2,8 +2,6 @@
 
 To log in to Oracle Application Express, you need a Workspace name, username, and the password created for that Workspace. 
 
-![](D:\Docs\NeXT\Training\OCI Team training\nexttraining\APEX Login.jpg)
-
 1. [![1a](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image3.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image3.png)
 
 2. The Workspace home page appears. Click **App Builder**.
