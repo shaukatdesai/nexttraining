@@ -4,15 +4,11 @@
 
 1. Click on the Autonomous Transaction Processing link
 
-   [
-
-   []: ATP%20Link.jpg
-
-   ](https://github.com/shaukatdesai/nexttraining/blob/master/ATP%20Link.jpg]()
+   
 
 2. Select the WORKSHOP instance
 
-   [](https://github.com/shaukatdesai/nexttraining/blob/master/Service%20Console.jpg)
+   
 
 3. To Log in to Oracle Application Express, , you need a Workspace name, username, and the password created for that Workspace. 
 
