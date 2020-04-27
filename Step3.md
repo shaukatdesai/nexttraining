@@ -4,7 +4,11 @@
 
 1. Click on the Autonomous Transaction Processing link
 
-   [](https://github.com/shaukatdesai/nexttraining/blob/master/ATP%20Link.jpg]()
+   [
+
+   []: ATP%20Link.jpg
+
+   ](https://github.com/shaukatdesai/nexttraining/blob/master/ATP%20Link.jpg]()
 
 2. Select the WORKSHOP instance
 
