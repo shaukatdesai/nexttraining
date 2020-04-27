@@ -1,4 +1,4 @@
-# Step 1
+# Step 2 - Configure ATP and Create APEX Workspace
 
 - Login to Oracle Cloud. 
 
@@ -15,7 +15,7 @@ Auto-scaling is a very powerful feature that lets our application handle peaks o
 - Click on Scale Up/Down. [![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/lab100/Scale.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/lab100/Scale.png)
 - Activate the AUTO SCALING checkbox: once you turn this on, the database will use up to three times the number of original cores to execute its workloads. [![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/lab100/Autoscaling.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/lab100/Autoscaling.png)
 
-## Accesing the Performance Hub
+## Accessing the Performance Hub
 
 The Performance Hub is a great tool to monitor our ATP status and activity. It is accessible from the Service Console.
 
@@ -40,6 +40,10 @@ The Performance Hub is a great tool to monitor our ATP status and activity. It i
 
 [![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/lab100/create_workspace_01.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/lab100/create_workspace_01.png)
 
-- In this case let's call the workspace and database user "WORKSHOPATP". Keep a note of the password as you will need it later.
+- In this case let's call the workspace and database user "WORKSHOPATP". **Keep a note of the password as you will need it later.**
 
 [![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/lab100/create_workspace_02.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/lab100/create_workspace_02.png)
+
+[Lab 103](https://github.com/shaukatdesai/nexttraining/blob/master/Step3.md)
+
+[Back to Labs](https://github.com/shaukatdesai/nexttraining/blob/master/README.md)
