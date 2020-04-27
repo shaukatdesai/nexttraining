@@ -1,8 +1,9 @@
 # Step 3: Getting Started with Oracle Application Express
 
-To log in to Oracle Application Express, you need a Workspace name, username, and the password created for that Workspace. 
 
-1. 
+
+1. To Log in to Oracle Application Express, , you need a Workspace name, username, and the password created for that Workspace. 
+
    [![1a](https://github.com/shaukatdesai/nexttraining/blob/master/APEX%20Login.jpg)](https://github.com/shaukatdesai/nexttraining/blob/master/APEX%20Login.jpg)
 
 2. The Workspace home page appears. Click **App Builder**.
