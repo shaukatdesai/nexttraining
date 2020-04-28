@@ -1,4 +1,4 @@
-![image-20200428123455665](D:\Docs\NeXT\Training\OCI Team training\nexttraining\image-20200428123455665.png)
+![image-20200428123455665](image-20200428123455665.png)
 
 # Autonomous Database with Oracle APEX
 
