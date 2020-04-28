@@ -26,6 +26,8 @@
 
 [](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/prereq/create_atp_free.png)
 
+- Leave the database version with the default value.  Note: For Free Tier you can only select an earlier version.
+- Uncheck the Auto Scaling option - we will look at this in the next lab
 - Set the admin password. ***Make a note of this as you will need it in the next lab**.*
 
 [![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/prereq/create_atp_04.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/prereq/create_atp_04.png)
