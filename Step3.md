@@ -48,27 +48,27 @@
 
     ![image-20200428114605815](image-20200428114605815.png)
 
-    Click **Install App**.
+    14. Click **Install App**.
 
     ![image-20200428114422017](image-20200428114422017.png)
 
-14. Click **Next** and Install App.
+    15. Click **Next** and Install App.
 
     ![image-20200428113255555](Install%20Packaged%20App.png)
 
 
 
-15. Click the **Run** button.
+16. Click the **Run** button.
 
 [![2e](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image14.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image14.png)
 
-16. Log in to the Sample Reporting application. Enter your Username and Password (same as your Workspace credentials - **WORKSHOPATP**) and click **Sign In**.
+17. Log in to the Sample Reporting application. Enter your Username and Password (same as your Workspace credentials - **WORKSHOPATP**) and click **Sign In**.
 
 ![image-20200428114940691](image-20200428114940691.png)
 
 You now see the Sample Reporting application home page. Explore the different features of the Sample Reporting app.
 
-17. In the Runtime Developer Toolbar, click **Home** and it will take you back to the workspace.
+18. In the Runtime Developer Toolbar, click **Home** and it will take you back to the workspace.
 
 [![2g](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image16.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image16.png)
 
