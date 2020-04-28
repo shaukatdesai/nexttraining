@@ -26,7 +26,7 @@
 
    
 
-   Prerequisite - Download the following file and save it locally. [Projects_Tables.sql](Projects_Tables.sql)
+   Prerequisite - Download the following file and save it locally. [Project_Tables.sql](Project_Tables.sql)
 
    1. Use SQL Workshop to upload a script that creates the tables for the Demo Projects application. Perform the following steps:
 
