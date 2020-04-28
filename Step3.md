@@ -54,9 +54,13 @@
 
 15. Accept the defaults and click **Next**.
 
-    ![image-20200428113255555](Install Packaged App.png)
+    ![image-20200428113255555](Install%Packaged%App.png)
 
-[![2c](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image12.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image12.png)
+
+
+
+
+
 
 1. Click **Install Packaged App**.
 
