@@ -66,7 +66,9 @@
 
 ![image-20200428114940691](image-20200428114940691.png)
 
-You now see the Sample Reporting application home page. In the Runtime Developer Toolbar, click **Home** and it will take you back to the workspace.
+You now see the Sample Reporting application home page. Explore the different features of the Sample Reporting app.
+
+17. In the Runtime Developer Toolbar, click **Home** and it will take you back to the workspace.
 
 [![2g](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image16.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image16.png)
 
