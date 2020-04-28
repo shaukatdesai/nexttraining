@@ -40,19 +40,21 @@
 
     [![1f](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image9.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image9.png)
 
-12. The Packaged Apps page displays all of the Productivity and Sample applications. Click **Sample**.
+12. The App Gallery page displays all of the Productivity and Sample applications. Click **Sample**.
 
     [![1g](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image10.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image10.png)
 
-13. Now, you install packaged applications. Click **Sample Reporting**.
+13. Next we will install the Sample Reporting app.  Click **Sample Reporting**.
 
     [![2a](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image11.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image11.png)
 
-14. Click **Install Packaged App**.
+14. Click **Install App**.
 
     [![2b](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image11.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image11.png)
 
 15. Accept the defaults and click **Next**.
+
+    ![image-20200428113255555](Install Packaged App.png)
 
 [![2c](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image12.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image12.png)
 
