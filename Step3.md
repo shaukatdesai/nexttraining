@@ -12,7 +12,7 @@
 
 4. Click on [->Service Console
 
-5. Click on Development
+5. Click on Development and Oracle APEX
 
    ![](https://github.com/shaukatdesai/nexttraining/blob/master/Development%20Link.jpg)
 
