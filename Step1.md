@@ -1,5 +1,6 @@
 # Step 1: Provision an Autonomous Transaction Processing database
 
+- Login to Oracle Cloud from cloud.oracle.com
 - On the left hand menu, choose Autonomous Transaction Processing.
 
 [![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/prereq/go_to_atp.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/prereq/go_to_atp.png)

@@ -1,6 +1,6 @@
 # Step 2 - Configure ATP and Create APEX Workspace
 
-- Login to Oracle Cloud. 
+- Login to Oracle Cloud from cloud.oracle.com. 
 
 - On the left hand menu, choose Autonomous Transaction Processing.
 
