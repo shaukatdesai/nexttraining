@@ -1,6 +1,6 @@
 [![img](https://github.com/oracle/cloudtestdrive/raw/master/common/images/customer.logo2.png)](https://github.com/oracle/cloudtestdrive/blob/master/common/images/customer.logo2.png)
 
-# Autonomous Database for APEX Developers
+# Autonomous Database with APEX Developers
 
 ## Lab Introduction
 
