@@ -26,7 +26,7 @@
 
    
 
-   Prerequisite - Download the following sql files and save them locally. [Project_Tables.sql](Project_Tables.sql) &  [Project_Data.sql](Project_Data.sql)
+   **Prerequisite - Download the following sql files and save them locally**. [Project_Tables.sql](Project_Tables.sql) &  [Project_Data.sql](Project_Data.sql)
 
    Once downloaded, open it with Notepad and make sure you can see something like this
 
