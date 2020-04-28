@@ -18,9 +18,9 @@
 
 [![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/prereq/create_atp_03.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/prereq/create_atp_03.png)
 
-- Choose the Serverless or Shared deployment type.
+- Choose Shared Infrastructure deployment type.
 
-[![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/prereq/create_atp_serverless.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/prereq/create_atp_serverless.png)
+![image-20200428124103977](image-20200428124103977.png)
 
 
 
