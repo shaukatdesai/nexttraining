@@ -10,43 +10,49 @@
 
    ![](https://github.com/shaukatdesai/nexttraining/blob/master/Workshop_Instance.jpg)
 
-4. To Log in to Oracle Application Express, , you need a Workspace name, username, and the password created for that Workspace. 
+4. Click on [->Service Console
+
+5. Click on Development
+
+   ![](https://github.com/shaukatdesai/nexttraining/blob/master/Development%20Link.jpg)
+
+6. To Log in to Oracle Application Express, , you need a Workspace name, username, and the password created for that Workspace. 
 
    [![1a](https://github.com/shaukatdesai/nexttraining/blob/master/APEX%20Login.jpg)](https://github.com/shaukatdesai/nexttraining/blob/master/APEX%20Login.jpg)
 
-5. The Workspace home page appears. Click **App Builder**.
+7. The Workspace home page appears. Click **App Builder**.
 
    [![1b](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image4.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image4.png)
 
-6. Toggle between the **View Icons** and the **View Report** buttons. You see that applications are displayed along with their icons and in report format.
+8. Toggle between the **View Icons** and the **View Report** buttons. You see that applications are displayed along with their icons and in report format.
 
    [![1c](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image5.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image5.png)
 
-7. Click **SQL Workshop**. The SQL Workshop home page appears. Review each of the SQL Workshop components.
+9. Click **SQL Workshop**. The SQL Workshop home page appears. Review each of the SQL Workshop components.
 
    [![1d](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image7.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image7.png)
 
-8. Then, click **Team Development**. Review the Team Development components.
+10. Then, click **Team Development**. Review the Team Development components.
 
    [![1e](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image8.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image8.png)
 
-9. Click **Packaged Apps**.
+11. Click **Packaged Apps**.
 
-   [![1f](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image9.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image9.png)
+    [![1f](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image9.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image9.png)
 
-10. The Packaged Apps page displays all of the Productivity and Sample applications. Click **Sample**.
+12. The Packaged Apps page displays all of the Productivity and Sample applications. Click **Sample**.
 
-   [![1g](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image10.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image10.png)
+    [![1g](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image10.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image10.png)
 
-11. Now, you install packaged applications. Click **Sample Reporting**.
+13. Now, you install packaged applications. Click **Sample Reporting**.
 
     [![2a](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image11.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image11.png)
 
-12. Click **Install Packaged App**.
+14. Click **Install Packaged App**.
 
     [![2b](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image11.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image11.png)
 
-13. Accept the defaults and click **Next**.
+15. Accept the defaults and click **Next**.
 
 [![2c](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image12.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image12.png)
 
