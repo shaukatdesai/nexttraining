@@ -36,7 +36,7 @@
 
    [![1e](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image8.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image8.png)
 
-11. Click **Packaged Apps**.
+11. Click **App Gallery**. (note the screenshots might are not always up to date)
 
     [![1f](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image9.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image9.png)
 
