@@ -28,11 +28,11 @@ The Performance Hub is a great tool to monitor our ATP status and activity. It i
 
 [![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/lab100/open_service_console.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/lab100/open_service_console.png)
 
-- Go to Development and open APEX.
+- Go to Development and click on Oracle APEX.
 
 [![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/lab100/open_apex.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/lab100/open_apex.png)
 
-- You will see the login page fof APEX Administration Services. Use the ADMIN password that you entered when you provisioned ATP.
+- You will see the login page for APEX Administration Services. Use the ADMIN password that you entered when you provisioned ATP.
 
 [![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/lab100/open_apex_2.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/lab100/open_apex_2.png)
 
@@ -40,7 +40,8 @@ The Performance Hub is a great tool to monitor our ATP status and activity. It i
 
 [![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/lab100/create_workspace_01.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/lab100/create_workspace_01.png)
 
-- In this case let's call the workspace and database user "WORKSHOPATP". **Keep a note of the password as you will need it later.**
+- In this case let's call the workspace and database user "**WORKSHOPATP**". 
+- **Keep a note of the password as you will need it later.**
 
 [![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/lab100/create_workspace_02.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/lab100/create_workspace_02.png)
 
