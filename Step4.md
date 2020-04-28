@@ -24,6 +24,10 @@
 
    It is essential to have at least the tables defined in order for the Create Application wizard to generate pages in your application. In this hands-on-lab, you will create the required database objects, and populate the tables with sample data.
 
+   
+
+   Prerequisite - Download the following file and save it locally. [Projects_Table.sql](Projects_Table.sql)
+
    1. Use SQL Workshop to upload a script that creates the tables for the Demo Projects application. Perform the following steps:
 
       a) Click **SQL Workshop** and select **SQL Scripts**.
@@ -32,11 +36,7 @@
 
       b) Click **Upload**.
 
-      c) Click **Choose File**, navigate to the working directory where you extracted apex-course-labs.zip. Locate the 
-
-      [Project_Tables.sql]: Project_Tables.sql
-
-       file, and double-click the file or click the file and then click **Open**.
+      c) Click **Choose File**, navigate to the working directory where you downloaded the Project_Tables.sql file.  Locate the file, and double-click the file or click the file and then click **Open**.
 
       d) Click **Upload**.
 
