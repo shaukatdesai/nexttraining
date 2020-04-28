@@ -16,7 +16,7 @@
 
    ![](https://github.com/shaukatdesai/nexttraining/blob/master/Development%20Link.jpg)
 
-6. To Log in to Oracle Application Express, , you need a Workspace name, username, and the password created for that Workspace.   We will use the **WORKSHOPATP** workspace and username.
+6. To Log in to Oracle Application Express, , you need a Workspace name, username, and the password created for that Workspace.   We will use the **WORKSHOPATP** workspace, username and password you previously created.
 
    [![1a](https://github.com/shaukatdesai/nexttraining/blob/master/APEX%20Login.jpg)](https://github.com/shaukatdesai/nexttraining/blob/master/APEX%20Login.jpg)
 
