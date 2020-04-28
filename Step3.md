@@ -8,7 +8,7 @@
 
 3. Select the WORKSHOP instance that you provisioned in [Lab 101](https://github.com/shaukatdesai/nexttraining/blob/master/Step1.md)
 
-   ![](https://github.com/shaukatdesai/nexttraining/blob/master/Service%20Console.jpg)
+   ![](https://github.com/shaukatdesai/nexttraining/blob/master/Workshop_Instance.jpg)
 
 4. To Log in to Oracle Application Express, , you need a Workspace name, username, and the password created for that Workspace. 
 
