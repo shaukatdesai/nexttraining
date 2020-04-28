@@ -62,11 +62,11 @@
 
       [![1h](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol02/image8.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol02/image8.png)
 
-   2. Currently the tables you created do not have any data. A script has been provided that creates an Oracle database package which can be run at any time to insert or reset the data in the tables. Use SQL Workshop to upload a script that you can use to populate table data. Perform the following steps:
+   2. Currently the tables you created do not have any data. The Project_Data script has been provided that creates an Oracle database package which can be run at any time to insert or reset the data in the tables. Use SQL Workshop to upload a script that you can use to populate table data. Perform the following steps:
 
       a) Click **SQL Scripts**. Click **Upload**.
 
-      b) Click **Choose File**, where you extracted apex-course-labs.zip.
+      b) Click **Choose File**, where you dowlonaded the Project_Data.sql script.
 
       c) Locate the **Project_Data.sql** file, and double-click the file or click the file and then click **Open**.
 
@@ -76,7 +76,7 @@
 
       f) Click the View Results icon for the script you just ran (top row). [![img](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol02/image11.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol02/image11.png)
 
-   3. In step 1, you uploaded a package called DEMO_PROJECTS_DATA_PKG. However, this package has not yet been run so the tables you created still do not have any data. The SQL Commands facility, within SQL Workshop, allows a developer to run any valid SQL commands. You will run a SQL command to execute the data package and populate the tables. Use SQL Commands to execute n Oracle Database package. Perform the following steps:
+   3. In the previous step, you uploaded a package called DEMO_PROJECTS_DATA_PKG. However, this package has not yet been run so the tables you created still do not have any data. The SQL Commands facility, within SQL Workshop, allows a developer to run any valid SQL commands. You will run a SQL command to execute the data package and populate the tables. Use SQL Commands to execute n Oracle Database package. Perform the following steps:
 
       a) Click the Up arrow, before SQL Scripts. [![3a](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol02/image13.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol02/image13.png)
 
@@ -85,8 +85,8 @@
       c) Enter the following code:
 
       ```
-      begin demo\_projects\_data\_pkg.load\_sample\_data;
-      
+      begin 
+      	demo_projects_data_pkg.load_sample_data;
       end;
       ```
 
