@@ -8,6 +8,8 @@
 
 3. Select the WORKSHOP instance that you provisioned in [Lab 101](https://github.com/shaukatdesai/nexttraining/blob/master/Step1.md)
 
+   ![](C:\Users\sdesai\AppData\Local\Microsoft\Windows\INetCache\IE\6WAURIF7\Service%20Console[1].jpg)
+
 4. To Log in to Oracle Application Express, , you need a Workspace name, username, and the password created for that Workspace. 
 
    [![1a](https://github.com/shaukatdesai/nexttraining/blob/master/APEX%20Login.jpg)](https://github.com/shaukatdesai/nexttraining/blob/master/APEX%20Login.jpg)
