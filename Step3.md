@@ -71,3 +71,5 @@
 4. You now see the Sample Reporting application home page. In the Runtime Developer Toolbar, click **Home**.
 
    [![2g](https://github.com/oracle/learning-library/raw/master/workshops/apex-en/images/hol01/image16.png)](https://github.com/oracle/learning-library/blob/master/workshops/apex-en/images/hol01/image16.png)
+
+[Back to Labs](https://github.com/shaukatdesai/nexttraining/blob/master/README.md)
