@@ -13,7 +13,7 @@
 Auto-scaling is a very powerful feature that lets our application handle peaks of traffic, while keeping costs under control at the same time. We will define a minimum number of OCPUs that our ATP will provision and the database will automatically scale up to three times that number, in case the demand arrives.
 
 - Click on Scale Up/Down. [![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/lab100/Scale.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/lab100/Scale.png)
-- Activate the AUTO SCALING checkbox: once you turn this on, the database will use up to three times the number of original cores to execute its workloads. [![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/lab100/Autoscaling.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/lab100/Autoscaling.png)
+- Activate the AUTO SCALING checkbox: once you turn this on, the database will use up to three times the number of original cores to execute its workloads. Note on Free Tier this option might not work.[![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/lab100/Autoscaling.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/lab100/Autoscaling.png)
 
 ## Accessing the Performance Hub
 
