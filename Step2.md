@@ -6,7 +6,7 @@
 
   [![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/lab400/go_to_atp.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/lab400/go_to_atp.png)
 
-- You should already have an ATP instance named "WORKSHOP". Click it.
+- You should already have an ATP instance named "**WORKSHOP**". Click it and it will take you to the Details page.
 
 ## Configuring auto-scaling
 
