@@ -26,7 +26,7 @@
 
 [](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/prereq/create_atp_free.png)
 
-- Set the admin password. ***Make a note of this as you will need it**.*
+- Set the admin password. ***Make a note of this as you will need it in the next lab**.*
 
 [![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/prereq/create_atp_04.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/prereq/create_atp_04.png)
 

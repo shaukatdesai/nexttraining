@@ -32,7 +32,7 @@ The Performance Hub is a great tool to monitor our ATP status and activity. It i
 
 [![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/lab100/open_apex.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/lab100/open_apex.png)
 
-- You will see the login page for APEX Administration Services. Use the ADMIN password that you entered when you provisioned ATP.
+- You will see the login page for APEX Administration Services. Use the ADMIN password that you entered when you provisioned WORKSHOPATP ATP instance.
 
 [![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/lab100/open_apex_2.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/lab100/open_apex_2.png)
 
