@@ -48,11 +48,11 @@
 
     ![image-20200428114605815](image-20200428114605815.png)
 
-    14. Click **Install App**.
+14. Click **Install App**.
 
     ![image-20200428114422017](image-20200428114422017.png)
 
-    15. Click **Next** and Install App.
+15. Click **Next** and Install App.
 
     ![image-20200428113255555](Install%20Packaged%20App.png)
 
