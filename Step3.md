@@ -54,7 +54,7 @@
 
 15. Accept the defaults and click **Next**.
 
-    ![image-20200428113255555](Install%Packaged%App.png)
+    ![image-20200428113255555](Install%20Packaged%20App.png)
 
 
 
