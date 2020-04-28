@@ -5,6 +5,7 @@
 
 [![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/prereq/go_to_atp.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/prereq/go_to_atp.png)
 
+- Select the compartment you previously created
 - Choose to create a new instance.
 
 [![img](https://github.com/oracle/cloudtestdrive/raw/master/ATP/APEX/images/prereq/create_atp_01.png)](https://github.com/oracle/cloudtestdrive/blob/master/ATP/APEX/images/prereq/create_atp_01.png)
