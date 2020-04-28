@@ -1,4 +1,4 @@
-[![img](https://github.com/oracle/cloudtestdrive/raw/master/common/images/customer.logo2.png)](https://github.com/oracle/cloudtestdrive/blob/master/common/images/customer.logo2.png)
+![image-20200428123455665](D:\Docs\NeXT\Training\OCI Team training\nexttraining\image-20200428123455665.png)
 
 # Autonomous Database with Oracle APEX
 
